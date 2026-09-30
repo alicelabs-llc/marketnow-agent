@@ -1,0 +1,25 @@
+{
+  "name": "marketnow-agent",
+  "description": "MarketNow — free trust layer for AI agents on MCP: credential verification, scam-check, tool fingerprinting, and a 68k-server security registry.",
+  "owner": {
+    "name": "AliceLabs LLC",
+    "url": "https://github.com/alicelabs-llc"
+  },
+  "plugins": [
+    {
+      "name": "marketnow",
+      "description": "Free trust layer for AI agents on MCP: verify agent credentials (9 formats), scam-check domains, fingerprint MCP tools, and search a 68,388-server registry with security flags. No auth, no API keys, no fees.",
+      "category": "development",
+      "source": { "type": "local", "path": "./" },
+      "homepage": "https://marketnow.site",
+      "keywords": [
+        "marketnow",
+        "marketnow mcp",
+        "marketnow trust",
+        "mcp trust check",
+        "agent credential verification"
+      ],
+      "domains": ["marketnow.site"]
+    }
+  ]
+}

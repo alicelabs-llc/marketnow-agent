@@ -1,0 +1,21 @@
+{
+  "name": "marketnow",
+  "version": "1.15.0",
+  "description": "Free trust layer for AI agents on MCP: verify agent credentials (9 formats), scam-check domains, fingerprint MCP tools, and search a 68,388-server registry with security flags. No auth, no API keys, no fees.",
+  "author": {
+    "name": "AliceLabs LLC",
+    "email": "eddyflores100@gmail.com",
+    "url": "https://github.com/alicelabs-llc"
+  },
+  "homepage": "https://marketnow.site",
+  "repository": "https://github.com/alicelabs-llc/marketnow-agent",
+  "license": "MIT",
+  "keywords": ["marketnow", "mcp", "trust", "security", "agents", "credential", "registry"],
+  "skills": ["./skills/marketnow"],
+  "mcpServers": {
+    "marketnow": {
+      "type": "http",
+      "url": "https://marketnow.site/api/mcp"
+    }
+  }
+}

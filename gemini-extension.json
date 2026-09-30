@@ -1,0 +1,11 @@
+{
+  "name": "marketnow",
+  "version": "1.15.0",
+  "description": "Free trust layer for MCP agents: verify credentials (9 formats), scam-check domains, fingerprint tools, search a 68,388-server registry with security flags. No auth, no fees.",
+  "mcpServers": {
+    "marketnow": {
+      "url": "https://marketnow.site/api/mcp",
+      "description": "Official MarketNow MCP server (hosted, streamable HTTP, v1.15.0). Public and stateless for queries: no token, no OAuth, no local install required. 9 security tools."
+    }
+  }
+}

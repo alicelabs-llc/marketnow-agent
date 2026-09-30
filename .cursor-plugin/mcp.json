@@ -1,0 +1,6 @@
+{
+  "marketnow": {
+    "type": "http",
+    "url": "https://marketnow.site/api/mcp"
+  }
+}
