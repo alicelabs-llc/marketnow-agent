@@ -10,6 +10,7 @@ This repository packages MarketNow as a **universal agent plugin** — one repo,
 | **Grok Build** (xAI) | Listed in the [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) — or add this repo as a marketplace source directly |
 | **Cursor** | From the marketplace / Customize panel, or: `.cursor-plugin/` manifest in this repo |
 | **Gemini CLI** | `gemini extensions install https://github.com/alicelabs-llc/marketnow-agent` |
+| **Antigravity CLI** | `agy plugin import gemini` (migrates from Gemini CLI) or use `plugin.json` + `mcp_config.json` in this repo |
 | **Qwen Code** | `qwen extensions install alicelabs-llc/marketnow-agent:marketnow` (installs Claude Code marketplaces directly) |
 | **Codex / any MCP client** | Add `https://marketnow.site/api/mcp` as a streamable-HTTP MCP server |
 
