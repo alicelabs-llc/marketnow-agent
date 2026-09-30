@@ -1,0 +1,20 @@
+{
+  "name": "marketnow",
+  "version": "1.15.0",
+  "description": "Free trust layer for AI agents: verify credentials (ATC v3, JWT/OAuth, W3C VC, MCP Card, A2A, EAT-AI, ZTA, SPIFFE SVID, X.509), scam-check domains, and search a 68,388-server MCP registry with security flags.",
+  "author": {
+    "name": "Alice Labs LLC",
+    "url": "https://marketnow.site"
+  },
+  "homepage": "https://marketnow.site",
+  "repository": "https://github.com/alicelabs-llc/marketnow-agent",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "trust",
+    "security",
+    "verification",
+    "scam-check",
+    "registry"
+  ]
+}

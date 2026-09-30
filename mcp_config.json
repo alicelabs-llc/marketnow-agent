@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "marketnow": {
+      "serverUrl": "https://marketnow.site/api/mcp",
+      "description": "Official MarketNow MCP server (hosted, streamable HTTP, v1.15.0). Public and stateless for queries: no token, no OAuth. 9 security tools."
+    }
+  }
+}
